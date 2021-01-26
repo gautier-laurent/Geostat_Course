@@ -2,13 +2,6 @@ name: geostat-course
 channels:
   - defaults
 dependencies:
-  - anaconda==5.2.0=py36_3
-  - conda
-  - conda-build
-  - _ipyw_jlab_nb_ext_conf
-  - anaconda-navigator==1.9.12
-  - navigator-updater
-  - python=3
   - matplotlib
   - numpy
   - pandas
