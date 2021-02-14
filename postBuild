@@ -1,3 +1,4 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable hide_input_all/main
+jupyter nbextension enable latex_envs/latex_envs
