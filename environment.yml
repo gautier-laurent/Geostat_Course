@@ -9,3 +9,4 @@ dependencies:
   - ipywidgets
   - jupyter_contrib_nbextensions
   - pyvalem
+  - gstools
